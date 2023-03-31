@@ -18,8 +18,8 @@ Almost all of the guides on
 - [Detecting](https://docs.clusterfact.games/docs/LXR/Guides/Setup/Detecting)([Detection](https://docs.clusterfact.games/docs/LXR/Classes/Detection))
 <br> can be applied to LXRFree.
 
-Add Detection Component to actor who wished to detect light
-Add Source Component to light sources.
+1. Add Detection Component to actor who wished to detect light
+2. Add Source Component to light sources.
 
 [Debug widget](https://docs.clusterfact.games/docs/LXR/Guides/Setup/Widget) for showing color and intensity is included.
 Simple usage is to create a `WB_LxrCanvas` widget and it should automatically work.
