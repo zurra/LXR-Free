@@ -13,6 +13,8 @@ This free version does not include advanced LXR features which are:
 LXRFree can't be used with [LXR-Examples](https://github.com/zurra/LXR-Examples)
 
 ## Usage
+Add all files to your project's `Plugins/LXRFree` folder, make one if it does not exists.
+
 Almost all of the guides on 
 - [Emitting](https://docs.clusterfact.games/docs/LXR/Guides/Setup/Emitting) ([Source](https://docs.clusterfact.games/docs/LXR/Classes/Source)) 
 - [Detecting](https://docs.clusterfact.games/docs/LXR/Guides/Setup/Detecting)([Detection](https://docs.clusterfact.games/docs/LXR/Classes/Detection))
