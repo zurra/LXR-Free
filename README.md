@@ -1,5 +1,5 @@
 # LXR-Free
-Free edition of LXR, the Ultimate Light Detection plugin for Unreal Engine.
+Free edition of LXR, the Ultimate Light Detection plugin for Unreal Engine.<br>
 MIT Licensed.
 
 ## Limitations
