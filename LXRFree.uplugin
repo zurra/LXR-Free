@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "FREE",
+	"FriendlyName":  "LXRFree",
+	"Description":  "LXRFree: Light Detection System-Free",
+	"Category": "Light Detection",
+	"CreatedBy": "Clusterfact Games",
+	"CreatedByURL": "",
+	"DocsURL": "https://docs.clusterfact.games/",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/bfe03ff858fa4b8d9766d7e9113f3829",
+	"SupportURL": "https://discord.gg/JcHVmmAFGQ ",
+	"EngineVersion": "5.1.0",
+	"CanContainContent": true,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name":  "LXRFree",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [
+				"Win64"
+			]
+		}
+	]
+}
