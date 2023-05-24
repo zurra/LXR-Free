@@ -28,3 +28,5 @@ Simple usage is to create a `WB_LxrCanvas` widget and it should automatically wo
 
 Check [Examples](https://docs.clusterfact.games/docs/LXR/Guides/Examples) for some example usages.
 
+Support [discord](https://discord.gg/aWvgSa9mKd)
+
